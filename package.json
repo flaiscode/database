@@ -1,11 +1,9 @@
 {
   "name": "flaiscode.db",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Türkçe ve işinizi görebilecek güzel bir veritabanı modülü.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repository": "https://github.com/flaiscode/database",
   "author": "nix and ahmet",
   "license": "MIT",
   "dependencies": {

@@ -1,6 +1,7 @@
 # Welcome to flaiscode.db 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](lisansurl)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/flaiscode/database/blob/main/LICENSE)
+[![Github](https://unpkg.com/simple-icons@7.4.0/icons/github.svg)](lisansurl)
 
 > flaiscode database
 
@@ -48,7 +49,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [MIT](lisansurl) licensed.
+This project is [MIT](https://github.com/flaiscode/database/blob/main/LICENSE) licensed.
 
 ## Last Updated
 
