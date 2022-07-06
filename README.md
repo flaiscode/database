@@ -30,7 +30,7 @@ db.delete('hello') // true
 
 db.push('fruits', 'orange') // [ "orange" ]
 db.push('fruits', 'apple') // [ "orange", "apple" ]
-db.unpush('fruits', 'orange') // [ "apple" ]
+db.remove('fruits', 'orange') // [ "apple" ]
 
 db.add('level', 10) // 10
 db.subtract('level', 8) // 2
@@ -53,4 +53,4 @@ This project is [MIT](https://github.com/flaiscode/database/blob/main/LICENSE) l
 
 ## Last Updated
 
-06/07/2022
+07/07/2022
