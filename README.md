@@ -9,6 +9,7 @@
 👤 **flaiscode ( nix and ahmet )**
 
 * Website: https://flaiscode.net/
+* Discord: https://discord.gg/NfxuWBtkxA
 * Github: [@flaiscode](https://github.com/flaiscode)
 
 ## Install
@@ -52,4 +53,4 @@ This project is [MIT](https://github.com/flaiscode/database/blob/main/LICENSE) l
 
 ## Last Updated
 
-05/07/2022
+06/07/2022
