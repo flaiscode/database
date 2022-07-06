@@ -66,7 +66,7 @@ class flaiscodeDatabase {
 
         return this.get(key);
     }
-    unpush(key, value) {
+    remove(key, value) {
         if (!key) throw new Error('[Hata] : Key kısmı boş bırakılamaz.')
         if (!value) throw new Error('[Hata] : Value kısmı boş bırakılamaz.')
 
