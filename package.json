@@ -4,7 +4,7 @@
   "description": "Türkçe ve işinizi görebilecek güzel bir veritabanı modülü.",
   "main": "index.js",
   "repository": "https://github.com/flaiscode/database",
-  "author": "nix and ahmet",
+  "author": "nix is closed#7711, AHMET#5095",
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security"
