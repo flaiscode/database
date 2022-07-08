@@ -7,7 +7,7 @@
 
 ## Author
 
-👤 **flaiscode ( nix and ahmet )**
+👤 **flaiscode (nix and ahmet)**
 
 - Website: https://flaiscode.net/
 - Discord: https://discord.gg/NfxuWBtkxA
@@ -21,10 +21,9 @@ npm install flaiscode.db
 
 ## Example
 
-```sh
-
-const flaiscodeDatabase = require('flaiscode.db');
-const db = new flaiscodeDatabase({ file: 'database.json' });
+```js
+const FlaiscodeDatabase = require('flaiscode.db');
+const db = new FlaiscodeDatabase('database.json');
 
 db.set('hello', 'world'); // world
 db.delete('hello') // true
@@ -39,7 +38,6 @@ db.subtract('level', 8) // 2
 db.deleteAll() // true
 
 db.all() // { ... }
-
 ```
 
 ## Show your support
@@ -49,7 +47,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 This project is [MIT](https://github.com/flaiscode/database/blob/main/LICENSE) licensed.
-
-## Last Updated
-
-06/07/2022
