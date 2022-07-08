@@ -1,4 +1,5 @@
 # Welcome to flaiscode.db 👋
+
 ![Version](https://img.shields.io/badge/version-1.0.4-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/flaiscode/database/blob/main/LICENSE)
 
@@ -8,9 +9,9 @@
 
 👤 **flaiscode ( nix and ahmet )**
 
-* Website: https://flaiscode.net/
-* Discord: https://discord.gg/NfxuWBtkxA
-* Github: [@flaiscode](https://github.com/flaiscode)
+- Website: https://flaiscode.net/
+- Discord: https://discord.gg/NfxuWBtkxA
+- Github: [@flaiscode](https://github.com/flaiscode)
 
 ## Install
 
@@ -41,11 +42,9 @@ db.all() // { ... }
 
 ```
 
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
 
 ## 📝 License
 

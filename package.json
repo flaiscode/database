@@ -1,12 +1,20 @@
 {
   "name": "flaiscode.db",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Türkçe ve işinizi görebilecek güzel bir veritabanı modülü.",
-  "main": "index.js",
+  "main": "dist/src/index.js",
   "repository": "https://github.com/flaiscode/database",
-  "author": "nix and ahmet",
+  "author": "Nix, Ahmet, Can",
   "license": "MIT",
+  "types": "dist/src/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "postinstall": "tsc"
+  },
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3"
   }
 }

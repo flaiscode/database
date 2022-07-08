@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "outDir": "dist",
+    "removeComments": true,
+    "target": "ES3",
+    "baseUrl": "./src/",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "paths": {},
+    "sourceMap": true,
+    "allowJs": true,
+    "declaration": true,
+    "declarationMap": true
+  },
+  "include": [
+    "./src/*.ts",
+    "./test/*.ts"
+  ],
+  "exclude": [
+    "node_modules/**/*"
+  ]
+}
