@@ -53,4 +53,4 @@ This project is [MIT](https://github.com/flaiscode/database/blob/main/LICENSE) l
 
 ## Last Updated
 
-07/07/2022
+08/07/2022
