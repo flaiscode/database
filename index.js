@@ -72,7 +72,7 @@ class flaiscodeDatabase {
 
         let obj = fs.readFileSync(this.options.file);
         obj = JSON.parse(obj);
-        obj[key] = obj[key].filter(g => g !== value) // başka ne ekleyelim?
+        obj[key] = obj[key].filter(g => g !== value) 
 
         fs.writeFileSync(this.options.file, JSON.stringify(obj, null, 2), "utf-8")
 
